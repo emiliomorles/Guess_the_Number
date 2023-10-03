@@ -34,12 +34,12 @@ Prove that you have the sharpest instincts and enjoy the thrill of victory!
 
 ## Year: 2023
 
-🔸 I learned more about:
+✅ I learned more about:
 
-    - Scope ✔️
-    - Global Variables and Local Variables ✔️
-    - How to modify a Global Variable (global 'variable'). It is better to use a 'return' statament as an output an create a variable ✔️
-    - Namespace ✔️
-    - Python Constans ✔️
+    🟢 Scope ✔️
+    🟢 Global Variables and Local Variables ✔️
+    🟢 How to modify a Global Variable (global 'variable'). It is better to use a 'return' statament as an output an create a variable ✔️
+    🟢 Namespace ✔️
+    🟢 Python Constans ✔️
     
 
